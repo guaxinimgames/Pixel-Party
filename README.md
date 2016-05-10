@@ -1,2 +1,4 @@
-# Pixel-Party
-Pixel party (game) repo
+JAM
+===
+
+JAM Files
